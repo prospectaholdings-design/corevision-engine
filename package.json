@@ -1,0 +1,1 @@
+{"name": "corevision-engine", "version": "1.0.0", "dependencies": { "@vercel/functions": "^1.0.0", "pg": "^8.7.1", "typescript": "^4.5.4", "@githubnext/copilot-chat-api": "^0.0.1" }}
